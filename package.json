@@ -11,7 +11,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rahmatagungj/owntest-mock"
+    "url": "git+https://github.com/rahmatagungj/owntest-mock.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   },
   "author": "Rahmat Agung Julians",
   "license": "ISC"
