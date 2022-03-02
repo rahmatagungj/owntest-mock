@@ -1,0 +1,14 @@
+{
+  "name": "@rahmatagungj/owntest-mock",
+  "version": "0.0.1",
+  "description": "This package is a mock package for testing purposes",
+  "main": "owntest-mock.js",
+  "keywords": [
+    "testing",
+    "framework",
+    "simple",
+    "javascript"
+  ],
+  "author": "Rahmat Agung Julians",
+  "license": "ISC"
+}
