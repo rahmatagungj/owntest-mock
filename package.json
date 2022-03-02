@@ -9,6 +9,10 @@
     "simple",
     "javascript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmatagungj/owntest-mock"
+  },
   "author": "Rahmat Agung Julians",
   "license": "ISC"
 }
